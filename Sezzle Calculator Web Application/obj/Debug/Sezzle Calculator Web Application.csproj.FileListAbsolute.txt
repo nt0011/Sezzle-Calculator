@@ -1,0 +1,41 @@
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\Sezzle Calculator Web Application.dll.config
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\Sezzle Calculator Web Application.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\Sezzle Calculator Web Application.pdb
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\csc.exe
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\csc.exe.config
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\csc.rsp
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\csi.exe
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\csi.exe.config
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\csi.rsp
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\System.Buffers.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\System.Collections.Immutable.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\System.Memory.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\System.Numerics.Vectors.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\vbc.exe
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\vbc.exe.config
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\vbc.rsp
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\VBCSCompiler.exe
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\roslyn\VBCSCompiler.exe.config
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\DynamicExpresso.Core.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\obj\Debug\Sezzle Calculator Web Application.csprojAssemblyReference.cache
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\obj\Debug\Sezzle Calculator Web Application.csproj.CoreCompileInputs.cache
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\obj\Debug\Sezzle Calculator Web Application.csproj.CopyComplete
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\obj\Debug\Sezzle Calculator Web Application.dll
+Z:\Sezzle\Sezzle Calculator Web Application\Sezzle Calculator Web Application\obj\Debug\Sezzle Calculator Web Application.pdb
