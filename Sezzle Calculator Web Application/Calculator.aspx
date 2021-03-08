@@ -10,7 +10,7 @@
         {
             grdResult.DataBind();
             
-            //UpdatePanel1.Update();
+            UpdatePanel1.Update();
         }
     </script>
 </head>
@@ -19,16 +19,18 @@
         <asp:Label runat="server" Text="Sezzle Calculator" ForeColor="Black" Font-Size="X-Large" Font-Italic="true"></asp:Label>
     </div>
     <form id="form1" runat="server">        
-        <asp:ScriptManager ID="scriptmanager1" runat="server">  
+    <asp:ScriptManager ID="scriptmanager1" runat="server">  
             </asp:ScriptManager>
-            <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional" ViewStateMode="Enabled">
+        
+        <asp:UpdatePanel ID="UpdatePanel2" runat="server" UpdateMode="Conditional" ViewStateMode="Enabled">
                 <ContentTemplate>
+
         <div class="calculator_placeholder">
             <table class="calculator" id="calcID" 
                 style="font-family:Calibri ;border-radius:10px ;background-color:darkcyan ;margin:auto">
             <tr>
                 <td colspan="4" class="display_style">
-                    <asp:TextBox runat="server" ID="txtDisplay" CssClass="display_style_box" AutoPostBack="false"></asp:TextBox>                    
+                    <asp:TextBox runat="server" ID="txtDisplay" CssClass="display_style_box"></asp:TextBox>                    
                 </td>
             </tr>
             <tr>
@@ -103,8 +105,12 @@
             </tr>
         </table>
         </div>
+                    </ContentTemplate>
+                </asp:UpdatePanel>
         <br /><br /><br /><br /><br />
         
+            <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional" ViewStateMode="Enabled">
+                <ContentTemplate>
             
                     <asp:GridView ID="grdResult" runat="server" AutoGenerateColumns="False" DataKeyNames="Id" BackColor="AliceBlue" 
                         CssClass="table-bordered" 
